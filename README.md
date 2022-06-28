@@ -12,9 +12,6 @@ Si vous êtes bloqué.e sur quelque chose, ou si vous avez la moindre question, 
 
 ### Exercice
 
-![](https://hackmd.io/_uploads/ByRH6Huc9.jpg)
-
-
 La page à coder contient les fonctionnalités suivantes : 
 
 #### Première partie de la page : informations sur la réforme
@@ -23,9 +20,6 @@ La page à coder contient les fonctionnalités suivantes :
 * Une partie statique proposant des éléments introductifs et génériques sur la réforme (cf fichier `metadata_mesure.json`)
 * Une jauge faisant apparaître 3 points de situation (les données vous sont fournies également dans le pack, cf fichier `metadata_mesure.json`) 
 
-:::danger
-Pas de bloc *synthèse des résultats* comme sur la capture d'écran ?
-:::
 
 #### Deuxième partie de la page : informations sur les indicateurs
 
