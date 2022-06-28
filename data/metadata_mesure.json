@@ -1,0 +1,20 @@
+[
+  {
+    mesure: "Déployer le pass Culture",
+    pourcentage_cible_min: 0,
+    pourcentage_cible_max: 100,
+    pourcentage_cible_median: 68,
+    ministere: "📖 Culture",
+    chef_proj_nat: "Sébastien Cavalier",
+    dac:"Noël Corbin"
+  },
+  {
+    mesure: "Déployer le plan vélo",
+    pourcentage_cible_min: 0,
+    pourcentage_cible_max: 93,
+    pourcentage_cible_median: 100,
+    ministere: "🍃 Transition Écologique, Transports, Logement",
+    chef_proj_nat: "Thierry du Crest",
+    dac:"Marc Papinutti"
+  }
+]

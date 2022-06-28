@@ -1,0 +1,62 @@
+[
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "valeur_actuelle": 5004,
+    "date_valeur_actuelle": "2021-12-31",
+    "valeur_initiale": 3809,
+    "date_valeur_initiale": "2017-12-31",
+    "cible": 5103,
+    "pourcentage_cible": 92,
+    "date_cible": "2022-03-31",
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "valeur_actuelle": 99995,
+    "date_valeur_actuelle": "2022-02-28",
+    "valeur_initiale": 0,
+    "date_valeur_initiale": "2019-01-31",
+    "cible": 182811,
+    "pourcentage_cible": 55,
+    "date_cible": "2022-12-31",
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "valeur_actuelle": 3593,
+    "date_valeur_actuelle": "2021-12-31",
+    "valeur_initiale": 2992,
+    "date_valeur_initiale": "2017-12-31",
+    "cible": 3577,
+    "pourcentage_cible": 100,
+    "date_cible": "2022-03-31",
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "valeur_actuelle": 42401,
+    "date_valeur_actuelle": "2022-02-28",
+    "valeur_initiale": 0,
+    "date_valeur_initiale": "2019-01-31",
+    "cible": 62023,
+    "pourcentage_cible": 68,
+    "date_cible": "2022-12-31",
+    "unite": "utilisateurs"
+  }
+]

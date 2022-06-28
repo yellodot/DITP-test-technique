@@ -1,0 +1,922 @@
+[
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2019-02-28",
+    "valeur": 0,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2019-03-31",
+    "valeur": 0,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2019-04-30",
+    "valeur": 0,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2019-05-31",
+    "valeur": 0,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2019-06-30",
+    "valeur": 0,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2019-07-31",
+    "valeur": 0,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2019-08-31",
+    "valeur": 0,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2019-09-30",
+    "valeur": 1,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2019-10-31",
+    "valeur": 1,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2019-11-30",
+    "valeur": 3,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2019-12-31",
+    "valeur": 4,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2020-01-31",
+    "valeur": 5,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2020-02-29",
+    "valeur": 7,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2020-03-31",
+    "valeur": 7,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2020-04-30",
+    "valeur": 7,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2020-05-31",
+    "valeur": 7,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2020-06-30",
+    "valeur": 7,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2020-07-31",
+    "valeur": 7,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2020-08-31",
+    "valeur": 7,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2020-09-30",
+    "valeur": 7,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2020-10-31",
+    "valeur": 7,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2020-11-30",
+    "valeur": 7,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2020-12-31",
+    "valeur": 7,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2021-01-31",
+    "valeur": 7,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2021-02-28",
+    "valeur": 7,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2021-03-31",
+    "valeur": 7,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2021-04-30",
+    "valeur": 7,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2021-05-31",
+    "valeur": 44137,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2021-06-30",
+    "valeur": 59709,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2021-07-31",
+    "valeur": 65965,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2021-08-31",
+    "valeur": 70889,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2021-09-30",
+    "valeur": 75643,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2021-10-31",
+    "valeur": 78828,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2021-11-30",
+    "valeur": 83928,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2021-12-31",
+    "valeur": 89605,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2022-01-31",
+    "valeur": 95168,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2022-02-28",
+    "valeur": 99995,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2019-02-28",
+    "valeur": 0,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2019-03-31",
+    "valeur": 0,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2019-04-30",
+    "valeur": 0,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2019-05-31",
+    "valeur": 0,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2019-06-30",
+    "valeur": 30,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2019-07-31",
+    "valeur": 571,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2019-08-31",
+    "valeur": 682,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2019-09-30",
+    "valeur": 1116,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2019-10-31",
+    "valeur": 1499,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2019-11-30",
+    "valeur": 1957,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2019-12-31",
+    "valeur": 2498,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2020-01-31",
+    "valeur": 2864,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2020-02-29",
+    "valeur": 3512,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2020-03-31",
+    "valeur": 3904,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2020-04-30",
+    "valeur": 4186,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2020-05-31",
+    "valeur": 4494,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2020-06-30",
+    "valeur": 5035,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2020-07-31",
+    "valeur": 5767,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2020-08-31",
+    "valeur": 6423,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2020-09-30",
+    "valeur": 7407,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2020-10-31",
+    "valeur": 8394,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2020-11-30",
+    "valeur": 8910,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2020-12-31",
+    "valeur": 9656,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2021-01-31",
+    "valeur": 10461,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2021-02-28",
+    "valeur": 11139,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2021-03-31",
+    "valeur": 11887,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2021-04-30",
+    "valeur": 12631,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2021-05-31",
+    "valeur": 24612,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2021-06-30",
+    "valeur": 28783,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2021-07-31",
+    "valeur": 30803,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2021-08-31",
+    "valeur": 32415,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2021-09-30",
+    "valeur": 33943,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2021-10-31",
+    "valeur": 35008,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2021-11-30",
+    "valeur": 36691,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2021-12-31",
+    "valeur": 38509,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2022-01-31",
+    "valeur": 40540,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le pass Culture",
+    "indicateur": "Nombre d’utilisateurs du pass Culture de 18 ans",
+    "id_indicateur": "nb-utilisateurs-pass-culture",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2022-02-28",
+    "valeur": 42401,
+    "unite": "utilisateurs"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2017-12-31",
+    "valeur": 3809,
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2018-12-31",
+    "valeur": 4085,
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2019-12-31",
+    "valeur": 4385,
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2020-09-30",
+    "valeur": 4654,
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2020-12-31",
+    "valeur": 4728,
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2021-03-31",
+    "valeur": 4827,
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2021-06-30",
+    "valeur": 4917,
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2021-09-30",
+    "valeur": 4995,
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 84,
+    "libelle_region": "Auvergne-Rhône-Alpes",
+    "date": "2021-12-31",
+    "valeur": 5004,
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2017-12-31",
+    "valeur": 2992,
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2018-12-31",
+    "valeur": 3109,
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2019-12-31",
+    "valeur": 3180,
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2020-09-30",
+    "valeur": 3274,
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2020-12-31",
+    "valeur": 3315,
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2021-03-31",
+    "valeur": 3346,
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2021-06-30",
+    "valeur": 3545,
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2021-09-30",
+    "valeur": 3535,
+    "unite": "kilomètres"
+  },
+  {
+    "mesure": "Déployer le plan vélo",
+    "indicateur": "Kilomètres d'aménagements cyclables sécurisés",
+    "id_indicateur": "km-amenagement-cyclables-securises",
+    "code_region": 27,
+    "libelle_region": "Bourgogne-Franche-Comté",
+    "date": "2021-12-31",
+    "valeur": 3593,
+    "unite": "kilomètres"
+  }
+]
