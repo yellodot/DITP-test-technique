@@ -1,0 +1,42 @@
+.accordion-simple > .active {
+  display: block;
+}
+
+.accordion__questions .inactive{
+  display: none;
+}
+
+.accordion__questions > div{
+  background-color: var(--white);
+  margin-bottom: 20px;
+  padding: 0px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.accordion__title{
+  color: var(--text-secondary);
+  padding-bottom: 20px;
+  font-weight: 500;
+}
+
+.accordion__questions-heading{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.accordion__questions-heading .active{
+  color: var(--text-primary);
+}
+
+.accordion__questions-heading h3{
+  color: var(--text-secondary);
+  font-weight: 600;
+}
+
+.accordion__questions p {
+  margin: 0px;
+  padding-bottom: 30px;
+  color: var(--text-secondary);
+  line-height: 1.4;
+}

@@ -1,0 +1,18 @@
+.reform_details_container {
+  margin-left: 2rem;
+}
+
+.table__headers {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.reform_details__table {
+  display: flex;
+}
+
+.table__rows {
+  display: flex;
+  flex-direction: column;
+}
