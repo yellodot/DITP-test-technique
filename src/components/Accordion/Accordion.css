@@ -1,42 +1,39 @@
-.accordion-simple > .active {
-  display: block;
+.accordion_container {
+  margin-top: 3rem;
 }
 
-.accordion__questions .inactive{
+.accordion__questions .inactive {
   display: none;
 }
 
-.accordion__questions > div{
-  background-color: var(--white);
-  margin-bottom: 20px;
-  padding: 0px 15px;
-  border-radius: 5px;
+.accordion__questions > div {
+  margin-bottom: 1.25rem;
+  padding: 0px 1rem;
+  border-radius: .3rem;
   cursor: pointer;
 }
 
-.accordion__title{
-  color: var(--text-secondary);
-  padding-bottom: 20px;
+.accordion__title {
+  padding-bottom: 1.25rem;
   font-weight: 500;
 }
 
-.accordion__questions-heading{
+.accordion__questions-heading {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.accordion__questions-heading .active{
-  color: var(--text-primary);
+.accordion__questions-heading .active {
+  transition: height ease 0.2s;
 }
 
-.accordion__questions-heading h3{
-  color: var(--text-secondary);
+.accordion__questions-heading h3 {
+  color: blue;
   font-weight: 600;
 }
 
 .accordion__questions p {
-  margin: 0px;
-  padding-bottom: 30px;
-  color: var(--text-secondary);
+  margin: 0;
+  padding-bottom: 1.875;
   line-height: 1.4;
 }

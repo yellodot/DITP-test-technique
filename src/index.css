@@ -2,4 +2,11 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: 'Marianne';
+}
+
+@font-face {
+  font-family: "Marianne";
+  src: local("Marianne-Regular"),
+   url("./assets/fonts/fontes-web/Marianne-Regular.woff") format("truetype");
 }

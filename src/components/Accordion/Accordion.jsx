@@ -4,33 +4,32 @@ import { useState } from 'react';
 import Data from '../../data/accordion_faq_data.json';
 
 function Accordion() {
-  const [accordion, setActiveAccordion] = useState(-1);
+  const [activeAccordion, setActiveAccordion] = useState(null);
 
-  function toggleAccordion(index) {
-    if (index === accordion) {
-      setActiveAccordion(-1);
-      return
+  function toggleAccordion(id) {
+    if (id === activeAccordion) {
+      return setActiveAccordion(null);
     }
-    setActiveAccordion(index);
+    setActiveAccordion(id);
   };
 
   return (
     <>
-      <div className="container">
-        <div>
-          <span className="accordion__title">Commentaires de la réforme (maille nationale)</span>
+      <div className="accordion_container">
+        <div className='accordion__title'>
+          Commentaires de la réforme (maille nationale)
         </div>
         <div className="accordion__questions">
           { Data.map((item, index) =>
               <div key={index} onClick={() => toggleAccordion(index)}>
                 <div className="accordion__questions-heading">
-                  <h3 className={accordion === index ? "active" : ""}>{item.question}</h3>
+                  <h3 className={activeAccordion === index ? "active" : ""}>{item.question}</h3>
                   <div>
-                    {accordion === index ?
+                    {activeAccordion === index ?
                       <span className="vertical">-</span> : <span className="horizontal">+</span>}
                   </div>
                 </div>
-                <div><p className={accordion === index ? "active" : "inactive"} >{item.answer}</p></div>
+                <div><p className={activeAccordion === index ? "active" : "inactive"} >{item.answer}</p></div>
               </div>
             )
           }
