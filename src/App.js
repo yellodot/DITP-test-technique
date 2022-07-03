@@ -3,6 +3,7 @@ import Accordion from './components/Accordion/Accordion';
 import Header from './components/Header/Header';
 import ReformContent from './components/ReformContent/ReformContent';
 import ReformIndicators from './components/ReformIndicators/ReformIndicators';
+import Footer from './components/Footer/Footer'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <ReformContent />
       <ReformIndicators />
       <Accordion />
+      <Footer />
     </div>
   );
 }

@@ -1,0 +1,7 @@
+.evolution_chart_main_container {
+    margin: 2rem 0 2rem 0;
+    width: 40rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

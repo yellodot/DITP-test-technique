@@ -1,6 +1,8 @@
 .reform_indicators_main_container {
     margin: 2rem 0 2rem 0;
-    width: 40rem;
+    width: auto;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }

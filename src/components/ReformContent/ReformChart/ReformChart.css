@@ -1,9 +1,19 @@
 .reform_chart_main_container {
   display: flex;
   flex-direction: column;
-  margin-right: 2rem;
+  font-size: .8rem;
+  color: var(--text-action-high-blue-france);
+  width: 20rem;
 }
 
 .reform_chart__chart {
   background-color: rgb(211, 220, 255);
+}
+
+.reform_chart_title {
+  display: flex;
+}
+
+.reform_chart_title img{
+  gap: .8rem;
 }

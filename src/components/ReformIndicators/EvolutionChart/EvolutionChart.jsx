@@ -105,15 +105,19 @@ function EvolutionChart() {
 
   return (
     <>
+    <div className="evolution_chart_main_container">
       <Select
-        isMulti
-        name="colors"
-        className="basic-multi-select"
-        classNamePrefix="select"
-        options={selectOptions}
-        onChange={(e) => handleSelectDepartement(e)}
-      />
-      <Line options={options} data={dataEvolutionChart} />
+          isMulti
+          name="colors"
+          className="basic-multi-select"
+          classNamePrefix="select"
+          options={selectOptions}
+          placeholder='Sélectionner un département...'
+          onChange={(e) => handleSelectDepartement(e)}
+        />
+        <Line options={options} data={dataEvolutionChart} />
+    </div>
+
     </>
   );
 }

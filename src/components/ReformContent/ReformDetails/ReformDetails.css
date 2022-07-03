@@ -1,18 +1,41 @@
 .reform_details_container {
   margin-left: 2rem;
+  width: 100%;
+}
+
+.reform__main_title {
+  display: flex;
+  gap: .3rem
 }
 
 .table__headers {
   display: flex;
   flex-direction: column;
   text-align: left;
+  color: var(--grey-625-425);
+  font-weight: normal;
+  padding-right: 1.2rem;
 }
 
 .reform_details__table {
   display: flex;
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.1), 0 8px 16px -16px rgba(0, 0, 0, 0.32);
+  padding: 1.5rem;
 }
 
 .table__rows {
   display: flex;
   flex-direction: column;
+  color: var(--grey-425-625);
+}
+
+.table__ministere {
+  font-weight: 700;
+  color: var(--grey-200-850);
+}
+
+.table__cpn {
+  text-decoration: underline;
+  font-weight: 700;
+  color: var(--text-action-high-blue-france);
 }
