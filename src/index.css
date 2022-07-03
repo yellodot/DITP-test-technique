@@ -2,11 +2,15 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'Marianne';
 }
 
 @font-face {
   font-family: "Marianne";
-  src: local("Marianne-Regular"),
-   url("./assets/fonts/fontes-web/Marianne-Regular.woff") format("truetype");
+  src: 
+   url("./assets/fonts/fontes-web/Marianne-Regular.woff") format("woff"),
+   url("./assets/fonts/fontes-web/Marianne-Regular_Italic.woff") format("woff"),
+   url("./assets/fonts/fontes-web/Marianne-Bold_Italic.woff") format("woff"),
+   url("./assets/fonts/fontes-web/Marianne-Bold.woff") format("woff"),
+   url("./assets/fonts/fontes-web/Marianne-Medium.woff") format("woff"),
+   url("./assets/fonts/fontes-web/Marianne-Thin.woff") format("woff");
 }

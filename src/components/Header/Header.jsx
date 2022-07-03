@@ -1,34 +1,79 @@
 import React from 'react';
-import './Header.css'
+import './Header.css';
+import AvatarIcon from '../../icons/user/account-circle-line.svg';
+
 
 function Header() {
   return (
-    <header className="header_main_component">
-      <div className='header_left_block'>
-        <span>Logo</span>
-        <div className='left_block__namepage'>
-          <div>PILOTE - Réformes prioritaires</div>
-          <div>Vue générale</div>
+<header role="banner" class="fr-header">
+    <div class="fr-header__body">
+        <div class="fr-container">
+            <div class="fr-header__body-row">
+                <div class="fr-header__brand fr-enlarge-link">
+                    <div class="fr-header__brand-top">
+                        <div class="fr-header__logo">
+                            <p class="fr-logo">
+                                GOUVERNEMENT
+                            </p>
+                        </div>
+                        <div class="fr-header__navbar">
+                            <button class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="modal-833" aria-haspopup="menu" title="Menu" id="fr-btn-menu-mobile">
+                                Menu
+                            </button>
+                        </div>
+                    </div>
+                    <div class="fr-header__service">
+                        <a href="/" title="Accueil - Pilote / Réformes prioritaires - Ministère">
+                            <p class="fr-header__service-title">PILOTE - Réformes prioritaires</p>
+                        </a>
+                        <p class="fr-header__service-tagline">Vue générale</p>
+                    </div>
+                </div>
+                <div class="fr-header__tools">
+                    <div class="fr-header__tools-links">
+                        <div className='header-profile-container'>
+                            <div className='profile__avatar'>
+                              <img alt='avatar' src={AvatarIcon}></img>
+                            </div>
+                            <div className='profile__right-block'>
+                              <div className='profile__name'>Cécile Le Guen</div>
+                              <div className='profile__logout'>Se déconnecter</div>
+                            </div>
+                        </div>
+                        <ul class="fr-links-group">
+                            <li>
+                                <a class="fr-link fr-fi-add-circle-line" href="#">Accueil</a>
+                            </li>
+                            <li>
+                                <a class="fr-link fr-fi-lock-line" href="#">Nouveautés</a>
+                            </li>
+                            <li>
+                                <a class="fr-link fr-fi-account-line" href="#">Centre d'aide</a>
+                            </li>
+                            <li>
+                                <a class="fr-link fr-fi-account-line" href="#">Imprimer</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-      <div className='header_right_block'>
-        <div className='right_block__profile_container'>
-          <span>Logo</span>
-          <div>
-            Cécile Le Guen
-          </div>
-        </div>
-        <nav>
-          <ul className='right_block__nav_container'>
-            <li>Accueil</li>
-            <li>Nouveautés</li>
-            <li>Centre d'aide</li>
-            <li>Imprimer</li>
-          </ul>
-        </nav>
-      </div>
+    </div>
 
-    </header>
+    <div class="fr-header__menu fr-modal" id="modal-833" aria-labelledby="fr-btn-menu-mobile">
+        <div class="fr-container">
+            <button class="fr-link--close fr-link" aria-controls="modal-833">Fermer</button>
+            <div class="fr-header__menu-links"></div>
+            <nav class="fr-nav" id="navigation-832" role="navigation" aria-label="Menu principal">
+                <ul class="fr-nav__list">
+                    <li class="fr-nav__item">
+                        <a class="fr-nav__link" href="#" target="_self">accès direct</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header>
   )
 }
 
