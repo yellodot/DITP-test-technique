@@ -27,3 +27,25 @@
   color: var(--text-action-high-blue-france);
 }
 
+.accordion__questions-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--text-action-high-blue-france);
+}
+.accordion__questions-heading .active {
+  transition: height ease 0.2s;
+  padding-bottom: .8rem;
+}
+
+.accordion__questions-heading h3 {
+  color: blue;
+  font-weight: 600;
+}
+
+.accordion__questions p {
+  margin: 0;
+  padding-bottom: 1.875;
+  line-height: 1.4;
+  font-size: .7rem;
+}

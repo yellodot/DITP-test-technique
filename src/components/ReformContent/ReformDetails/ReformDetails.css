@@ -1,6 +1,7 @@
 .reform_details_container {
   margin-left: 2rem;
   width: 100%;
+  height: 80%;
 }
 
 .reform__main_title {
@@ -21,6 +22,7 @@
   display: flex;
   box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.1), 0 8px 16px -16px rgba(0, 0, 0, 0.32);
   padding: 1.5rem;
+  height: 100%;
 }
 
 .table__rows {
