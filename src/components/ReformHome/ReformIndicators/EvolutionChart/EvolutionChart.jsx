@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./EvolutionChart.css";
 import Select from "react-select";
-import DepartementalData from "../../../data/barometre_resultats_detail_departemental.json";
+import DepartementalData from "../../../../data/barometre_resultats_detail_departemental.json";
 import { Line } from "react-chartjs-2";
 import "chartjs-adapter-moment";
 import {

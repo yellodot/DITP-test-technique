@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import './AccordionItem.css';
-import ArrowUp from '../../icons/system/arrow-up-s-line.svg'
-import ArrowDown from '../../icons/system/arrow-down-s-line.svg'
+import ArrowUp from '../../../icons/system/arrow-up-s-line.svg'
+import ArrowDown from '../../../icons/system/arrow-down-s-line.svg'
 
 function AccordionItem({...item}) {
 

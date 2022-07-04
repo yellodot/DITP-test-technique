@@ -7,10 +7,14 @@ import { VueInReact } from "vuera";
 // eslint-disable-next-line import/no-anonymous-default-export
 const Component = VueInReact(MapChart);
 
-export default () => (
-    
+function MapElement () {
+    return ( 
     <div>
-      <MapChart
-      />
+    <VueWrapper
+      component={MapChart}
+    />
     </div>
-)
+  )
+}
+
+export default MapElement;

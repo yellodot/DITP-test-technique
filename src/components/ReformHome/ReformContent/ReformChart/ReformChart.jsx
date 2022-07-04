@@ -1,6 +1,6 @@
 import React from "react";
 import "./ReformChart.css";
-import InfoIcon from "../../../icons/system/information-fill.svg";
+import InfoIcon from "../../../../icons/system/information-fill.svg";
 
 function ReformChart() {
   return (

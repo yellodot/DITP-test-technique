@@ -1,18 +1,15 @@
 import './App.css';
-import Accordion from './components/Accordion/Accordion';
-import Header from './components/Header/Header';
-import ReformContent from './components/ReformContent/ReformContent';
-import ReformIndicators from './components/ReformIndicators/ReformIndicators';
-import Footer from './components/Footer/Footer'
+import { Routes, Route } from "react-router-dom";
+import ReformHome from './components/ReformHome/ReformHome';
+import Home from './components/Home';
 
 function App() {
   return (
     <div className="App">
-      <Header />
-      <ReformContent />
-      <ReformIndicators />
-      <Accordion />
-      <Footer />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path=":reformName" element={<ReformHome />} />
+      </Routes>
     </div>
   );
 }

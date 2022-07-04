@@ -1,7 +1,7 @@
 import React from "react";
 import "./Accordion.css";
-import Data from "../../data/accordion_faq_data.json";
-import InfoIcon from "../../icons/system/information-fill.svg";
+import Data from "../../../data/accordion_faq_data.json";
+import InfoIcon from "../../../icons/system/information-fill.svg";
 import AccordionItem from "./AccordionItem";
 
 function Accordion() {

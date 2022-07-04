@@ -1,7 +1,7 @@
 import React from 'react';
 import './ReformDetails.css';
-import Data from '../../../data/metadata_mesure.json';
-import InfoIcon from "../../../icons/system/information-fill.svg";
+import Data from '../../../../data/metadata_mesure.json';
+import InfoIcon from "../../../../icons/system/information-fill.svg";
 
 function ReformDetails() {
 

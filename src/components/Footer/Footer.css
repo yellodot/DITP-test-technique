@@ -6,7 +6,7 @@
  /* ¯¯¯¯¯¯¯¯¯ *\
    FOOTER
  \* ˍˍˍˍˍˍˍˍˍ */
- 
+
  .fr-footer {
    --ul-type: none;
    --ol-type: none;
@@ -17,6 +17,8 @@
    --ol-content: none;
    width: 100%;
    padding-top: 2.5rem;
+   position: fixed;
+   bottom: 0;
  
    /**
     * Conteneur du bloc marque, avec le logo principal et éventuellement
