@@ -3,9 +3,11 @@ import "./Accordion.css";
 import { useState } from "react";
 import Data from "../../data/accordion_faq_data.json";
 import InfoIcon from "../../icons/system/information-fill.svg";
+import AccordionItem from "./AccordionItem";
 
 function Accordion() {
-  const [activeAccordion, setActiveAccordion] = useState(null);
+  const [activeAccordion, setActiveAccordion] = useState(false);
+  const [activeMult, setActiveMult] = useState([]);
 
   const toggleAccordion = (id) => {
     if (id === activeAccordion) {
@@ -13,6 +15,10 @@ function Accordion() {
     }
     setActiveAccordion(id);
   };
+
+  // const toggleDisplay = () => {
+  //   setActiveAccordion(!activeAccordion)
+  // }
 
   
 
@@ -25,27 +31,8 @@ function Accordion() {
         </div>
         <div className="accordion__questions">
           {Data.map((item, index) => (
-            <div key={index} onClick={() => toggleAccordion(index)}>
-              <div className="accordion__questions-heading">
-                <div className={activeAccordion === index ? "active" : ""}>
-                  {item.question}
-                </div>
-                <div>
-                  {activeAccordion === index ? (
-                    <span className="vertical">-</span>
-                  ) : (
-                    <span className="horizontal">+</span>
-                  )}
-                </div>
-              </div>
-              <div>
-                <p
-                  className={activeAccordion === index ? "active" : "inactive"}
-                >
-                  {item.answer}
-                </p>
-              </div>
-            </div>
+            <AccordionItem toggleAccordion={toggleAccordion} index={index} activeAccordion={activeAccordion} item={item}/>
+            // <AccordionItem toggleDisplay={toggleDisplay} index={index} activeAccordion={activeAccordion} item={item}/>
           ))}
         </div>
       </div>
