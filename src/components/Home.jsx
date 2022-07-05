@@ -6,9 +6,6 @@ import SelectReform from './SelectReform/SelectReform'
 function Home() {
   return (
     <div>
-      <Header />
-      <SelectReform />
-      <Footer />
     </div>
   )
 }

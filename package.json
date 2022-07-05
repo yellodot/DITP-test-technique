@@ -29,10 +29,7 @@
     "extends": [
       "react-app",
       "react-app/jest"
-    ], 
-    "env": {
-      "BABEL_ENV": "development"
-    }
+    ]
   },
   "browserslist": {
     "production": [

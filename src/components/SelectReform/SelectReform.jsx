@@ -1,39 +1,35 @@
-import React, { useState } from 'react';
-import './SelectReform.css';
+import React, { useState } from "react";
+import "./SelectReform.css";
 import Select from "react-select";
-import MetadataReforms from '../../data/metadata_mesure.json';
-import { useNavigate } from "react-router-dom";
+import MetadataReforms from "../../data/metadata_mesure.json";
 
-function SelectReform() {
-
-  const [selectedReform, setSelectedReform] = useState("");
-  const navigate = useNavigate();
-
+function SelectReform({ handleSelectReform }) {
   const selectOptions = MetadataReforms.map((el) => {
-    return { value: el.mesure, label: el.mesure };
-  })
-
-  const handleSelectReform = (e) => {
-    setSelectedReform(e.value)
-    navigate(`${selectedReform}`)
-  }
+    return {
+      value: el.mesure,
+      label: el.mesure,
+    };
+  });
 
   return (
     <>
-      <div className='selectreform-main-container'>
-        <div className='selectreform-main-container__dropdown'>
+      <div className="selectreform-main-container">
+        <div className="selectreform-main-container__dropdown">
           <Select
             name="reforms"
             className="basic-multi-select"
             classNamePrefix="select"
             options={selectOptions}
-            placeholder='Sélectionner une réforme...'
+            placeholder="Sélectionner une réforme..."
             onChange={(e) => handleSelectReform(e)}
+            defaultValue={selectOptions.filter(
+              (option) => option.label === "Déployer le plan vélo"
+            )}
           />
         </div>
       </div>
     </>
-  )
+  );
 }
 
-export default SelectReform
+export default SelectReform;

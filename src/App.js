@@ -1,15 +1,14 @@
 import './App.css';
-import { Routes, Route } from "react-router-dom";
 import ReformHome from './components/ReformHome/ReformHome';
-import Home from './components/Home';
+import Header from './components/Header/Header'
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
     <div className="App">
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path=":reformName" element={<ReformHome />} />
-      </Routes>
+      <Header />
+      <ReformHome />
+      <Footer />
     </div>
   );
 }

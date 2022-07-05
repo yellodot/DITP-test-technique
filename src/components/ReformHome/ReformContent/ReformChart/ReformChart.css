@@ -1,9 +1,8 @@
 .reform_chart_main_container {
   display: flex;
   flex-direction: column;
-  font-size: .8rem;
   color: var(--text-action-high-blue-france);
-  width: 20rem;
+  width: 25rem;
 }
 
 .reform_chart__chart {
@@ -14,38 +13,15 @@
 
 .reform_chart_title {
   display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: .3rem;
+  height: 1.3rem;
 }
 
-.reform_chart_title img{
-  gap: .8rem;
+.reform_chart_title__text {
+  font-size: .8rem;
 }
-
-/* .skill {
-  width: 10rem;
-  height: 10rem;
-  position: relative;
-}
-
-.outer {
-  align-self: center;
-  height: 10rem;
-  width: 10rem;
-  border-radius: 50%;
-  padding: 1rem;
-}
-
-.inner {
-  height: 8rem;
-  width: 8rem;
-  border-radius: 50%;
-  border: .8rem solid var(--text-action-high-blue-france);
-}
-
-.percentage_median {
-  font-weight: 700;
-  font-size: 3rem;
-  color: yellow;
-} */
 
 circle {
   fill: none;
@@ -55,46 +31,3 @@ circle {
 path {
   stroke: var(--text-action-high-blue-france);
 }
-
-/* 
-.gauge {
-  width: 100%;
-  max-width: 250px;
-  font-family: "Roboto", sans-serif;
-  font-size: 32px;
-  color: #004033;
-}
-
-.gauge__body {
-  width: 100%;
-  height: 0;
-  padding-bottom: 50%;
-  background: #b4c0be;
-  position: relative;
-  border-top-left-radius: 100% 200%;
-  border-top-right-radius: 100% 200%;
-  overflow: hidden;
-}
-
-.gauge__fill {
-  position: absolute;
-  top: 100%;
-  left: 0;
-  width: inherit;
-  height: 100%;
-  background: #009578;
-  transform-origin: center top;
-  transform: rotate(0.25turn);
-  transition: transform 0.2s ease-out;
-}
-
-.gauge__cover {
-  width: 75%;
-  height: 150%;
-  background: rgb(211, 220, 255);
-  border-radius: 50%;
-  position: absolute;
-  top: 25%;
-  left: 50%;
-  transform: translateX(-50%);
-} */

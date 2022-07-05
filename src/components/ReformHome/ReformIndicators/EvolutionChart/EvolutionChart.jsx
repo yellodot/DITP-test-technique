@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+import React, { useState, useContext } from "react";
+import { ReformContext } from "../../ReformHome";
 import "./EvolutionChart.css";
 import Select from "react-select";
 import DepartementalData from "../../../../data/barometre_resultats_detail_departemental.json";
@@ -34,6 +35,8 @@ const options = {
     title: {
       display: true,
       text: "Evolution de l'indicateur",
+      color: '#000091',
+      font: {weight: 'normal'},
     },
   },
   scales: {
@@ -45,6 +48,7 @@ const options = {
 
 function EvolutionChart() {
   const [selectedDepartements, setSelectedDepartements] = useState([]);
+  const reform = useContext(ReformContext);
 
   // fill the dropdown options with the departements
   const selectOptions = DepartementalData.map((el) => {
@@ -70,10 +74,12 @@ function EvolutionChart() {
     return "rgb(" + r + "," + g + "," + b + ")";
   };
 
+  const idReformIndicator = DepartementalData.filter((el) => el.mesure === reform)[0].id_indicateur;
+
   // get the data of the selected departements from the json file
   const dataSelectedDepartements = DepartementalData.filter((el) => {
     if (
-      el.id_indicateur === "km-amenagement-cyclables-securises" &&
+      el.id_indicateur === idReformIndicator &&
       selectedDepartements.includes(parseInt(el.code_departement))
     )
       return true;
@@ -108,7 +114,7 @@ function EvolutionChart() {
     <div className="evolution_chart_main_container">
       <Select
           isMulti
-          name="colors"
+          name="departements"
           className="basic-multi-select"
           classNamePrefix="select"
           options={selectOptions}

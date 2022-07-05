@@ -1,7 +1,17 @@
-.reform_content_container {
+.reform-content-container {
   display: flex;
+  flex-direction: column;
   margin-top: 2rem;
   font-size: .8rem;
   color: var(--text-action-high-blue-france);
   height: 18rem;
+}
+
+.reform-content-container__reformtitle {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.reform-content-container__chartdetailsblock {
+  display: flex;
 }
