@@ -12,7 +12,7 @@ function ReformDetails() {
     <>
       <div className="reform_details_container">
         <div className="reform__main_title">
-          Responsables <img src={InfoIcon}></img>
+          Responsables <img alt="icon" src={InfoIcon}></img>
         </div>
         <table className="reform_details__table">
           <tr className="table__headers">
@@ -21,9 +21,15 @@ function ReformDetails() {
             <th>Chef de projet national</th>
           </tr>
           <tr className="table__rows">
-            <td className="table__ministere">{reform ? reformMetadata[0].ministere : ""}</td>
-            <td className="table__dac">{reform ? reformMetadata[0].dac : ""}</td>
-            <td className="table__cpn">{reform ? reformMetadata[0].chef_proj_nat : ""}</td>
+            <td className="table__ministere">
+              {reform ? reformMetadata[0].ministere : ""}
+            </td>
+            <td className="table__dac">
+              {reform ? reformMetadata[0].dac : ""}
+            </td>
+            <td className="table__cpn">
+              {reform ? reformMetadata[0].chef_proj_nat : ""}
+            </td>
           </tr>
         </table>
       </div>

@@ -27,7 +27,9 @@
   color: var(--text-action-high-blue-france);
 }
 
-
+.fr-links-group li a {
+  padding-right: 0.4rem;
+}
 
 /*!
  * DSFR v1.5.1 | SPDX-License-Identifier: MIT | License-Filename: LICENSE.md | restricted use (see terms and conditions)

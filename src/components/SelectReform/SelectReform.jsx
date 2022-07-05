@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "./SelectReform.css";
 import Select from "react-select";
 import MetadataReforms from "../../data/metadata_mesure.json";

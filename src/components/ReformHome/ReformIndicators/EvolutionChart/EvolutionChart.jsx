@@ -78,11 +78,7 @@ function EvolutionChart() {
 
   // get the data of the selected departements from the json file
   const dataSelectedDepartements = DepartementalData.filter((el) => {
-    if (
-      el.id_indicateur === idReformIndicator &&
-      selectedDepartements.includes(parseInt(el.code_departement))
-    )
-      return true;
+    return el.id_indicateur === idReformIndicator && selectedDepartements.includes(parseInt(el.code_departement))
   });
 
   const labels = dataSelectedDepartements.map((el) => el.date);
