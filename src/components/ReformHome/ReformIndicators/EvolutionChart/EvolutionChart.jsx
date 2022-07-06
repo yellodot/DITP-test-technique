@@ -114,6 +114,7 @@ function EvolutionChart() {
           className="basic-multi-select"
           classNamePrefix="select"
           options={selectOptions}
+          defaultValue='Ain'
           placeholder='Sélectionner un département...'
           onChange={(e) => handleSelectDepartement(e)}
         />
