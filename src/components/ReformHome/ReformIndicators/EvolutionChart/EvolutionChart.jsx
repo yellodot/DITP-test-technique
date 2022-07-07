@@ -34,9 +34,8 @@ const options = {
     },
     title: {
       display: true,
-      text: "Evolution de l'indicateur",
-      color: '#000091',
-      font: {weight: 'normal'},
+      color: "#000091",
+      font: { weight: "normal" },
     },
   },
   scales: {
@@ -74,11 +73,16 @@ function EvolutionChart() {
     return "rgb(" + r + "," + g + "," + b + ")";
   };
 
-  const idReformIndicator = DepartementalData.filter((el) => el.mesure === reform)[0].id_indicateur;
+  const idReformIndicator = DepartementalData.filter(
+    (el) => el.mesure === reform
+  )[0].id_indicateur;
 
   // get the data of the selected departements from the json file
   const dataSelectedDepartements = DepartementalData.filter((el) => {
-    return el.id_indicateur === idReformIndicator && selectedDepartements.includes(parseInt(el.code_departement))
+    return (
+      el.id_indicateur === idReformIndicator &&
+      selectedDepartements.includes(parseInt(el.code_departement))
+    );
   });
 
   const labels = dataSelectedDepartements.map((el) => el.date);
@@ -107,20 +111,25 @@ function EvolutionChart() {
 
   return (
     <>
-    <div className="evolution_chart_main_container">
-      <Select
-          isMulti
-          name="departements"
-          className="basic-multi-select"
-          classNamePrefix="select"
-          options={selectOptions}
-          defaultValue='Ain'
-          placeholder='Sélectionner un département...'
-          onChange={(e) => handleSelectDepartement(e)}
-        />
-        <Line options={options} data={dataEvolutionChart} />
-    </div>
-
+      <div className="evolution_chart_main_container">
+        <div className="evolution_chart__leftblock">
+          <span className="evolution_chart__title">Evolution de l'indicateur</span>
+          <Select
+            isMulti
+            name="departements"
+            className="basic-multi-select"
+            classNamePrefix="select"
+            options={selectOptions}
+            placeholder="Sélectionner un département..."
+            onChange={(e) => handleSelectDepartement(e)}
+          />
+        </div>
+        <div className="evolution_chart__chart">
+        {
+          selectedDepartements.length > 0 ? <Line options={options} data={dataEvolutionChart} /> : null
+        }
+        </div>
+      </div>
     </>
   );
 }

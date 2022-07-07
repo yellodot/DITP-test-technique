@@ -1,7 +1,6 @@
 import React, { useContext } from "react";
 import "./ReformChart.css";
 import InfoIcon from "../../../../icons/system/information-fill.svg";
-import { Chart } from "react-google-charts";
 import { ReformContext } from "../../ReformHome";
 import Data from "../../../../data/metadata_mesure.json";
 

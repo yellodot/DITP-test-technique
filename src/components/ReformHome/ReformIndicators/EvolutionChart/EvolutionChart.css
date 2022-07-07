@@ -1,11 +1,28 @@
 .evolution_chart_main_container {
-    margin: 2rem 0 2rem 0;
-    width: 40rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+  margin: 2rem 0 2rem 0;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
 }
 
 .basic-multi-select {
-    margin-bottom: 2rem;
+  margin-bottom: 2rem;
+  width: 20rem;
+}
+
+.evolution_chart__leftblock {
+  display: flex;
+  flex-direction: column;
+}
+
+.evolution_chart__title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-action-high-blue-france);
+  padding-bottom: 2rem;
+}
+
+.evolution_chart__chart {
+  width: 40rem;
 }

@@ -23,7 +23,7 @@ function SelectReform({ handleSelectReform }) {
             placeholder="Sélectionner une réforme..."
             onChange={(e) => handleSelectReform(e)}
             defaultValue={selectOptions.filter(
-              (option) => option.label === "Déployer le plan vélo"
+              (option) => option.label === MetadataReforms[0].mesure
             )}
           />
         </div>

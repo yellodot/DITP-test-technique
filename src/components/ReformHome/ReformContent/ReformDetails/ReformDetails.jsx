@@ -22,13 +22,13 @@ function ReformDetails() {
           </tr>
           <tr className="table__rows">
             <td className="table__ministere">
-              {reform ? reformMetadata[0].ministere : ""}
+              {reformMetadata[0].ministere}
             </td>
             <td className="table__dac">
-              {reform ? reformMetadata[0].dac : ""}
+              {reformMetadata[0].dac}
             </td>
             <td className="table__cpn">
-              {reform ? reformMetadata[0].chef_proj_nat : ""}
+              {reformMetadata[0].chef_proj_nat}
             </td>
           </tr>
         </table>
